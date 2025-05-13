@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Ehsan Yari! 👋
 
-<!--
-**Ehsan-Yari/Ehsan-Yari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages**: Python, JavaScript, TypeScript, C++
+- **Frameworks**: React, Node.js, Django
+- **DevOps**: Docker, Kubernetes, CI/CD pipelines
+- **Databases**: PostgreSQL, MongoDB, MySQL
+- **Tools**: Git, VS Code, WebStorm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm currently learning
+- Advanced Machine Learning
+- Cloud Infrastructure (AWS, Azure)
+- Blockchain Development
+
+## 👯 Collaboration
+- Open to collaborating on **Open Source Contributions**, **Machine Learning Projects**, and **Full-stack Web Development**.
+
+## 📫 How to reach me
+- **Email**: ehsan.yari@example.com
+- **LinkedIn**: [linkedin.com/in/ehsan-yari](https://linkedin.com/in/ehsan-yari)
+- **Twitter**: [@ehsan_yari](https://twitter.com/ehsan_yari)
+
+## ⚡ Fun facts
+- I love solving complex algorithms and puzzles.
+- Passionate about making technology accessible for everyone.
+- In my free time, I enjoy photography and hiking.
+
+## 📊 GitHub Stats
+![Ehsan Yari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ehsan-Yari&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+![Ehsan Yari's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehsan-Yari&layout=compact&theme=radical)
+
+---
+
+Feel free to explore my repositories and connect with me. Let's build something amazing together! 🚀
