@@ -69,12 +69,6 @@
 
 ###
 
-<div style="text-align: center;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/ehsan.yari" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
