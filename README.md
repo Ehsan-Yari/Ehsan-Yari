@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ehsan and I'm a fullstack web developer.</h2>
+<h2 align="left">Hi 👋! My name is Ehsan.</h2>
 
 ###
 
@@ -66,6 +66,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo"  />
 </div>
+
+###
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###
 
